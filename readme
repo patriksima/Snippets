@@ -15,3 +15,6 @@ log.class.php
     - simple logging class using mysql
     - by level info, warn, error
     - rotate logs
+
+proxylist.class.php
+    - parse, check and create proxies list from sites eg. samair.ru, aliveproxy.com
