@@ -1,0 +1,17 @@
+PHP snippets under MIT licence by Patrik Šíma (programator at patriksima dot cz)
+
+ares.class.php
+    - simple query interface for czech company registry
+    - return company info
+
+seznam.class.php
+    - simple query interface for czech fulltext seznam.cz
+    - return company info
+    
+cache.class.php
+    - simple cache class using mysql
+
+log.class.php
+    - simple logging class using mysql
+    - by level info, warn, error
+    - rotate logs

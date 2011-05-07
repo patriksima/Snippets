@@ -1,6 +1,6 @@
 <?php
 /**
- * Author: Patrik Šíma <ja@patriksima.cz>
+ * Author: Patrik Šíma <programator@patriksima.cz>
  * License: MIT
  */
 
