@@ -8,7 +8,7 @@ class Cache
 {
     protected $expire = 1; //hours
     protected $cache  = array();
-    private $table = '';
+    protected $table = '';
     
     public function __construct()
     {
