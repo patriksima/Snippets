@@ -18,3 +18,6 @@ log.class.php
 
 proxylist.class.php
     - parse, check and create proxies list from sites eg. samair.ru, aliveproxy.com
+
+tpb.class.php
+    - torrent parser for the pirate bay
