@@ -1,4 +1,15 @@
-PHP snippets under MIT licence by Patrik Šíma (programator at patriksima dot cz)
+PHP snippets under MIT license
+by Patrik Šíma (programmer at patriksima dot cz)
+
+I don't use these snippets regularly. Thus, for example parsers may not work, mainly because the site sometimes change specification.
+Let me know if this happens. Thanks a lot.
+
+ivysilani.class.php
+    - grab rtmp/video link from portal of czech tv
+    - ivysilani.sh helper for linux user, use rtmpdump
+
+csfd.class.php
+    - parse data of movie from czech movie database
 
 ares.class.php
     - simple query interface for czech company registry
