@@ -4,6 +4,9 @@ by Patrik Šíma (programmer at patriksima dot cz)
 I don't use these snippets regularly. Thus, for example parsers may not work, mainly because the site sometimes change specification.
 Let me know if this happens. Thanks a lot.
 
+slowroris.php
+    - slowroris attack on web server, more http://ha.ckers.org/slowloris/
+
 ivysilani.class.php
     - grab rtmp/video link from portal of czech tv
     - ivysilani.sh helper for linux user, use rtmpdump
